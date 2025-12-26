@@ -30,6 +30,9 @@
 **Tools**
 - Git, GitHub, VS Code, Postman
 
+
+![JavaScript](https://skillicons.dev/icons?i=js,python,c,react,html,css,fastapi,nodejs,firebase,supabase,git,github,vscode)
+
 ---
 
 ## 📌 Featured Projects
