@@ -17,34 +17,73 @@
 
 ## 💫 Professional Profile
 
-I am a B.Tech Computer and Communication Engineering undergraduate at Amrita Vishwa Vidyapeetham with strong interests in **backend engineering, intelligent systems, and connected hardware**. I enjoy working at the intersection of software, cloud, and real-world systems.
+I am a B.Tech Computer and Communication Engineering undergraduate at Amrita Vishwa Vidyapeetham with strong interests in **backend engineering, intelligent systems, and connected hardware**. I enjoy working at the intersection of software, cloud, and real-world systems, where ideas turn into practical, scalable solutions.
 
 * ⚙️ **Backend & Cloud:** Expertly designing APIs and cloud-integrated applications using **FastAPI, Node.js, and Express**.
 * 🔌 **Connected Hardware:** Passionate about **IoT and Embedded Systems**, creating software that interacts directly with hardware to solve real-life challenges.
-* 🧠 **Intelligent Systems:** Exploring **AI-assisted systems and LLM-powered tools**.
+* 🧠 **Intelligent Systems:** Exploring **AI-assisted systems and LLM-powered tools**, with a focus on system reliability and behavior analysis.
 * 🚀 **Engineering Fundamentals:** Deeply committed to mastering **Data Structures and Algorithms**.
-* 🌐 **Open Source:** Actively preparing for **GSoC 2026**, contributing to global repositories.
+* 🌐 **Open Source:** Actively preparing for **GSoC 2026**, contributing to global repositories and production-quality documentation.
 
 ---
 
 ## 🛠️ Expertise & Stack
 
-### 💻 Primary Roles
+### 🔡 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+</p>
+
+### 💻 Primary Roles & Backend
 **Software Engineer | Full Stack Developer | Cloud Application Developer**
 
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NodeJS](https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPRESS.JS-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
-### 🤖 Specialized Interests
+### 🤖 Specialized Interests & Databases
 **IoT Developer | AI Systems Developer | Applied ML Engineer**
 
-![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Firebase](https://img.shields.io/badge/FIREBASE-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIREBASE-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+</p>
+
+### 🧠 Cognitive Tools & AI Orchestration
+**Leveraging Advanced LLMs for Accelerated Development & System Intelligence**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CHATGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/CLAUDE-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEMINI-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/PERPLEXITY-00A296?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/COPILOT-000000?style=for-the-badge&logo=github-copilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/GROQ-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LOVABLE-FF3366?style=for-the-badge" />
+</p>
+
+### 🌍 Infrastructure, Community & Tools
+**Open Source Contributor | GSoC 2026 Aspirant**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 
 ---
 
@@ -63,10 +102,10 @@ I am a B.Tech Computer and Communication Engineering undergraduate at Amrita Vis
 
 ## 📌 Featured Projects
 
-### 🛡️ [SLA-Guard AI](https://github.com/TharunvenkateshN/sla-guard-ai)
+### <a href="https://github.com/TharunvenkateshN/sla-guard-ai" target="_blank">🛡️ SLA-Guard AI</a>
 Predictive service system using time-series forecasting and Explainable AI (XAI) to flag potential SLA breaches.
 
-### 🎬 [CineMate](https://github.com/TharunvenkateshN/CineMate)
+### <a href="https://github.com/TharunvenkateshN/CineMate" target="_blank">🎬 CineMate</a>
 High-performance React application leveraging real-time API orchestration for modern media discovery.
 
 ---
@@ -78,11 +117,12 @@ High-performance React application leveraging real-time API orchestration for mo
   <a href="https://www.linkedin.com/in/tharun-n-v-859794320/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tharunnv98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discordapp.com/users/tharunnv" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://slack.com" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
+  <a href="https://cloud-native.slack.com/archives/D0A65CF0EP5" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /><br>
   <b>Designed with ❤️ by Tharun Venkatesh | 2026</b>
 </p>
