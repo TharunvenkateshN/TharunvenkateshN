@@ -15,15 +15,35 @@
 
 ---
 
+<!-- Winter of Code 5.0 Contributor Badge -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/TharunvenkateshN/TharunvenkateshN/main/assets/woc-5-contributor.png"
+    alt="Winter of Code 5.0 Contributor"
+    width="320"
+  />
+</p>
+
+<p align="center">
+  <b>Winter of Code 5.0 – Open Source Contributor</b><br>
+  Recognized for active and impactful contributions to open-source projects.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Winter%20of%20Code%205.0-Contributor-4DA3FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</p>
+
+---
+
 ## 💫 Professional Profile
 
 I am a B.Tech Computer and Communication Engineering undergraduate at Amrita Vishwa Vidyapeetham with strong interests in **backend engineering, intelligent systems, and connected hardware**. I enjoy working at the intersection of software, cloud, and real-world systems, where ideas turn into practical, scalable solutions.
 
-* ⚙️ **Backend & Cloud:** Expertly designing APIs and cloud-integrated applications using **FastAPI, Node.js, and Express**.
-* 🔌 **Connected Hardware:** Passionate about **IoT and Embedded Systems**, creating software that interacts directly with hardware to solve real-life challenges.
-* 🧠 **Intelligent Systems:** Exploring **AI-assisted systems and LLM-powered tools**, with a focus on system reliability and behavior analysis.
-* 🚀 **Engineering Fundamentals:** Deeply committed to mastering **Data Structures and Algorithms**.
-* 🌐 **Open Source:** Actively preparing for **GSoC 2026**, contributing to global repositories and production-quality documentation.
+* ⚙️ **Backend & Cloud:** Designing APIs and cloud-integrated applications using **FastAPI, Node.js, and Express**.
+* 🔌 **Connected Hardware:** Passionate about **IoT and Embedded Systems**, building software that interfaces with real-world hardware.
+* 🧠 **Intelligent Systems:** Exploring **AI-assisted systems and LLM-powered tools**, focusing on system reliability and behavior analysis.
+* 🚀 **Engineering Fundamentals:** Strong focus on **Data Structures and Algorithms**.
+* 🌐 **Open Source:** Active contributor and **GSoC 2026 aspirant**, working on production-grade repositories and documentation.
 
 ---
 
@@ -56,7 +76,7 @@ I am a B.Tech Computer and Communication Engineering undergraduate at Amrita Vis
   <img src="https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FIREBASE-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIREBASE-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
 </p>
 
 ### 🧠 Cognitive Tools & AI Orchestration
@@ -102,10 +122,10 @@ I am a B.Tech Computer and Communication Engineering undergraduate at Amrita Vis
 
 ## 📌 Featured Projects
 
-### <a href="https://github.com/TharunvenkateshN/sla-guard-ai" target="_blank">🛡️ SLA-Guard AI</a>
+### 🛡️ SLA-Guard AI  
 Predictive service system using time-series forecasting and Explainable AI (XAI) to flag potential SLA breaches.
 
-### <a href="https://github.com/TharunvenkateshN/CineMate" target="_blank">🎬 CineMate</a>
+### 🎬 CineMate  
 High-performance React application leveraging real-time API orchestration for modern media discovery.
 
 ---
@@ -117,12 +137,11 @@ High-performance React application leveraging real-time API orchestration for mo
   <a href="https://www.linkedin.com/in/tharun-n-v-859794320/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:tharunnv98@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discordapp.com/users/tharunnv" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://cloud-native.slack.com/archives/D0A65CF0EP5" target="_blank"><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /></a>
 </p>
 
 ---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" /><br>
-  <b>Designed with ❤️ by Tharun Venkatesh | 2026</b>
+  <b>Designed by Tharun Venkatesh | 2026</b>
 </p>
