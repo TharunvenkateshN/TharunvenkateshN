@@ -21,6 +21,13 @@
     src="https://raw.githubusercontent.com/TharunvenkateshN/TharunvenkateshN/main/assets/woc-5-contributor.png"
     alt="Winter of Code 5.0 Contributor"
     width="320"
+    style="
+      border-radius: 14px;
+      box-shadow:
+        0 0 12px rgba(113,188,247,0.6),
+        0 0 24px rgba(113,188,247,0.4),
+        0 0 48px rgba(113,188,247,0.2);
+    "
   />
 </p>
 
@@ -88,22 +95,25 @@ I am a B.Tech Computer and Communication Engineering undergraduate at Amrita Vis
   <img src="https://img.shields.io/badge/GEMINI-8E75C2?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/PERPLEXITY-00A296?style=for-the-badge&logo=perplexity&logoColor=white" />
   <img src="https://img.shields.io/badge/COPILOT-000000?style=for-the-badge&logo=github-copilot&logoColor=white" />
-  <img src="https://img.shields.io/badge/GROQ-F55036?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LOVABLE-FF3366?style=for-the-badge" />
 </p>
 
-### 🌍 Infrastructure, Community & Tools
-**Open Source Contributor | GSoC 2026 Aspirant**
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+## 📌 Featured Projects
+
+### 🧠 CareerConnect  
+Full-stack career and opportunity management platform designed to connect users with relevant career opportunities through a structured, scalable system. Focuses on clean backend architecture, role-based access, and a user-centric interface for streamlined professional engagement.
+
+---
+
+### 🛡️ SLA-Guard AI  
+Predictive service system using time-series forecasting and Explainable AI (XAI) to proactively flag potential SLA breaches.
+
+---
+
+### 🎬 CineMate  
+High-performance React application leveraging real-time API orchestration for modern media discovery.
+
 
 ---
 
@@ -117,16 +127,6 @@ I am a B.Tech Computer and Communication Engineering undergraduate at Amrita Vis
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TharunvenkateshN&theme=tokyonight&bg_color=0D1117&color=71BCF7&line=71BCF7&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-### 🛡️ SLA-Guard AI  
-Predictive service system using time-series forecasting and Explainable AI (XAI) to flag potential SLA breaches.
-
-### 🎬 CineMate  
-High-performance React application leveraging real-time API orchestration for modern media discovery.
 
 ---
 
