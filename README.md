@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://myportfoliouniverse.vercel.app/](https://tharunnv-portfolio.vercel.app/)" target="_blank">
+  <a href="https://tharunnv-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tharun-n-v-859794320/" target="_blank">
